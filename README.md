@@ -2,7 +2,8 @@
 查漏补缺，以便自己复习
 
 ## JS
-1. [CommonJS和ES6模块的区别](https://github.com/LinDaiDai/niubility-coding-js/blob/master/JavaScript/ES6+/%E4%B8%80%E7%AF%87%E4%B8%8D%E6%98%AF%E6%A0%87%E9%A2%98%E5%85%9A%E7%9A%84CommonJS%E5%92%8CES6%E6%A8%A1%E5%9D%97%E8%A7%84%E8%8C%83%E8%AE%B2%E8%A7%A3.md)
+1. [数组排序](https://github.com/MaMaFish/Note/issues/32)
+2. [CommonJS和ES6模块的区别](https://github.com/LinDaiDai/niubility-coding-js/blob/master/JavaScript/ES6+/%E4%B8%80%E7%AF%87%E4%B8%8D%E6%98%AF%E6%A0%87%E9%A2%98%E5%85%9A%E7%9A%84CommonJS%E5%92%8CES6%E6%A8%A1%E5%9D%97%E8%A7%84%E8%8C%83%E8%AE%B2%E8%A7%A3.md)
 ## CSS
 1. [CSS 实现三角形](https://github.com/MaMaFish/Interview-Question/issues/1)
 
