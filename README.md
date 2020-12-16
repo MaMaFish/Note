@@ -16,3 +16,4 @@
    
 ## 代码实现
 1. [防抖与节流](https://github.com/MaMaFish/Note/issues/27)
+2. [数组扁平化和对象扁平化](https://github.com/MaMaFish/Note/issues/34)
