@@ -7,7 +7,12 @@
 3. [JS 数据类型](https://github.com/MaMaFish/Note/issues/2)
 4. [深浅拷贝数组](https://github.com/MaMaFish/Note/issues/3)
 5. [将类数组对象转为数组](https://github.com/MaMaFish/Note/issues/4)
-6.
+6. [JS 中遍历对象的方法](https://github.com/MaMaFish/Note/issues/6)
+7. [JS 中操作数组的常用方法以及是否改变原数组](https://github.com/MaMaFish/Note/issues/7)
+8. [AJAX 数据传递格式](https://github.com/MaMaFish/Note/issues/8)
+9. [forEach() 如何跳出循环](https://github.com/MaMaFish/Note/issues/9)
+10. [使用 XMLHttpRequest 对象完成 AJAX 请求](https://github.com/MaMaFish/Note/issues/10)
+11. [关于闭包的执行结果](https://github.com/MaMaFish/Note/issues/12)
 ## CSS
 1. [CSS 实现三角形](https://github.com/MaMaFish/Interview-Question/issues/1)
 
@@ -17,8 +22,10 @@
 3. Vue 3.0 源码解析
    - [Vue 3.0 优化](https://github.com/MaMaFish/Note/issues/38)
    - [01 组件渲染：vnode 到真实 DOM 是如何转变的](https://github.com/MaMaFish/Note/issues/39)
-4. [Vue 生命周期钩子]https://github.com/MaMaFish/Note/issues/5
+4. [Vue 生命周期钩子](https://github.com/MaMaFish/Note/issues/5)
    
 ## 代码实现
 1. [防抖与节流](https://github.com/MaMaFish/Note/issues/27)
 2. [数组扁平化和对象扁平化](https://github.com/MaMaFish/Note/issues/34)
+3. [把 * 移动到数组的左边](https://github.com/MaMaFish/Note/issues/11)
+4. 
