@@ -1,5 +1,5 @@
 # Note
-查漏补缺，以便自己复习
+查漏补缺，以便复习
 
 ## JS
 1. [数组排序](https://github.com/MaMaFish/Note/issues/32)
@@ -13,8 +13,18 @@
 9. [forEach() 如何跳出循环](https://github.com/MaMaFish/Note/issues/9)
 10. [使用 XMLHttpRequest 对象完成 AJAX 请求](https://github.com/MaMaFish/Note/issues/10)
 11. [关于闭包的执行结果](https://github.com/MaMaFish/Note/issues/12)
+12. [什么是闭包？闭包的作用是什么](https://github.com/MaMaFish/Note/issues/13)
+13. [原型及原型链的理解](https://github.com/MaMaFish/Note/issues/14)
+14. [ES6 里的 Set 和 Map](https://github.com/MaMaFish/Note/issues/15)
+15. [箭头函数和普通函数的区别](https://github.com/MaMaFish/Note/issues/16)
+16. [ES6 中的 let 和 const](https://github.com/MaMaFish/Note/issues/17)
+17. [this 的指向](https://github.com/MaMaFish/Note/issues/18)
+
+
+
 ## CSS
 1. [CSS 实现三角形](https://github.com/MaMaFish/Interview-Question/issues/1)
+2. [BFC](https://zhuanlan.zhihu.com/p/25321647)
 
 ## Vue
 1. [Vue.js 2.0 双向绑定原理](https://segmentfault.com/a/1190000006599500#comment-area)
@@ -23,9 +33,12 @@
    - [Vue 3.0 优化](https://github.com/MaMaFish/Note/issues/38)
    - [01 组件渲染：vnode 到真实 DOM 是如何转变的](https://github.com/MaMaFish/Note/issues/39)
 4. [Vue 生命周期钩子](https://github.com/MaMaFish/Note/issues/5)
-   
+
+## HTTP
+1. [HTTP 状态码](https://github.com/MaMaFish/Note/issues/19)
+
 ## 代码实现
 1. [防抖与节流](https://github.com/MaMaFish/Note/issues/27)
 2. [数组扁平化和对象扁平化](https://github.com/MaMaFish/Note/issues/34)
 3. [把 * 移动到数组的左边](https://github.com/MaMaFish/Note/issues/11)
-4. 
+4. [关于 let 执行结果](https://github.com/MaMaFish/Note/issues/20)
