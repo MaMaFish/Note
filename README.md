@@ -37,7 +37,7 @@
 
 ## HTTP
 1. [HTTP 状态码](https://github.com/MaMaFish/Note/issues/19)
-2. [HTTPS与HTTP](https://juejin/post/6844903504046211079)
+2. [HTTPS与HTTP](https://juejin.cn/post/6844903504046211079)
 
 ## 代码实现
 1. [防抖与节流](https://github.com/MaMaFish/Note/issues/27)
