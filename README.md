@@ -45,3 +45,4 @@
 2. [数组扁平化和对象扁平化](https://github.com/MaMaFish/Note/issues/34)
 3. [把 * 移动到数组的左边](https://github.com/MaMaFish/Note/issues/11)
 4. [关于 let 执行结果](https://github.com/MaMaFish/Note/issues/20)
+5. (a==1 && b==2 && c==3)为 true(https://github.com/MaMaFish/Note/issues/25)
