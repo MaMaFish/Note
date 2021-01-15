@@ -48,3 +48,6 @@
 4. [关于 let 执行结果](https://github.com/MaMaFish/Note/issues/20)
 5. [(a==1 && b==2 && c==3)为 true](https://github.com/MaMaFish/Note/issues/25)
 6. [写出代码执行结果](https://github.com/MaMaFish/Note/issues/26)
+
+## 网络安全
+1. [XSS 与 CSRF 攻击](https://github.com/MaMaFish/Note/issues/28)
