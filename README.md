@@ -19,7 +19,7 @@
 15. [箭头函数和普通函数的区别](https://github.com/MaMaFish/Note/issues/16)
 16. [ES6 中的 let 和 const](https://github.com/MaMaFish/Note/issues/17)
 17. [this 的指向](https://github.com/MaMaFish/Note/issues/18)
-
+18. [ES5 寄生组合继承](https://github.com/MaMaFish/Note/issues/24)
 
 
 ## CSS
