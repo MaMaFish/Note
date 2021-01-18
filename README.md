@@ -52,3 +52,8 @@
 
 ## 网络安全
 1. [XSS 与 CSRF 攻击](https://github.com/MaMaFish/Note/issues/28)
+
+## To learn
+1. http2
+2. 垃圾回收机制
+3. 发布订阅模式
