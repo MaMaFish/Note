@@ -2,24 +2,23 @@
 查漏补缺，以便复习
 
 ## JS
-1. [数组排序](https://github.com/MaMaFish/Note/issues/32)
-2. [CommonJS 和 ES6 模块的区别](https://github.com/LinDaiDai/niubility-coding-js/blob/master/JavaScript/ES6+/%E4%B8%80%E7%AF%87%E4%B8%8D%E6%98%AF%E6%A0%87%E9%A2%98%E5%85%9A%E7%9A%84CommonJS%E5%92%8CES6%E6%A8%A1%E5%9D%97%E8%A7%84%E8%8C%83%E8%AE%B2%E8%A7%A3.md)
-3. [JS 数据类型](https://github.com/MaMaFish/Note/issues/2)
-4. [深浅拷贝数组](https://github.com/MaMaFish/Note/issues/3)
-5. [将类数组对象转为数组](https://github.com/MaMaFish/Note/issues/4)
-6. [JS 中遍历对象的方法](https://github.com/MaMaFish/Note/issues/6)
-7. [JS 中操作数组的常用方法以及是否改变原数组](https://github.com/MaMaFish/Note/issues/7)
-8. [AJAX 数据传递格式](https://github.com/MaMaFish/Note/issues/8)
-9. [forEach() 如何跳出循环](https://github.com/MaMaFish/Note/issues/9)
-10. [使用 XMLHttpRequest 对象完成 AJAX 请求](https://github.com/MaMaFish/Note/issues/10)
-11. [关于闭包的执行结果](https://github.com/MaMaFish/Note/issues/12)
-12. [什么是闭包？闭包的作用是什么](https://github.com/MaMaFish/Note/issues/13)
-13. [原型及原型链的理解](https://github.com/MaMaFish/Note/issues/14)
-14. [ES6 里的 Set 和 Map](https://github.com/MaMaFish/Note/issues/15)
-15. [箭头函数和普通函数的区别](https://github.com/MaMaFish/Note/issues/16)
-16. [ES6 中的 let 和 const](https://github.com/MaMaFish/Note/issues/17)
-17. [this 的指向](https://github.com/MaMaFish/Note/issues/18)
-18. [ES5 寄生组合继承](https://github.com/MaMaFish/Note/issues/24)
+1. [CommonJS 和 ES6 模块的区别](https://github.com/LinDaiDai/niubility-coding-js/blob/master/JavaScript/ES6+/%E4%B8%80%E7%AF%87%E4%B8%8D%E6%98%AF%E6%A0%87%E9%A2%98%E5%85%9A%E7%9A%84CommonJS%E5%92%8CES6%E6%A8%A1%E5%9D%97%E8%A7%84%E8%8C%83%E8%AE%B2%E8%A7%A3.md)
+2. [JS 数据类型](https://github.com/MaMaFish/Note/issues/2)
+3. [深浅拷贝数组](https://github.com/MaMaFish/Note/issues/3)
+4. [将类数组对象转为数组](https://github.com/MaMaFish/Note/issues/4)
+5. [JS 中遍历对象的方法](https://github.com/MaMaFish/Note/issues/6)
+6. [JS 中操作数组的常用方法以及是否改变原数组](https://github.com/MaMaFish/Note/issues/7)
+7. [AJAX 数据传递格式](https://github.com/MaMaFish/Note/issues/8)
+8. [forEach() 如何跳出循环](https://github.com/MaMaFish/Note/issues/9)
+9. [使用 XMLHttpRequest 对象完成 AJAX 请求](https://github.com/MaMaFish/Note/issues/10)
+10. [关于闭包的执行结果](https://github.com/MaMaFish/Note/issues/12)
+11. [什么是闭包？闭包的作用是什么](https://github.com/MaMaFish/Note/issues/13)
+12. [原型及原型链的理解](https://github.com/MaMaFish/Note/issues/14)
+13. [ES6 里的 Set 和 Map](https://github.com/MaMaFish/Note/issues/15)
+14. [箭头函数和普通函数的区别](https://github.com/MaMaFish/Note/issues/16)
+15. [ES6 中的 let 和 const](https://github.com/MaMaFish/Note/issues/17)
+16. [this 的指向](https://github.com/MaMaFish/Note/issues/18)
+17. [ES5 寄生组合继承](https://github.com/MaMaFish/Note/issues/24)
 
 
 ## CSS
@@ -51,7 +50,7 @@
 6. [写出代码执行结果](https://github.com/MaMaFish/Note/issues/26)
 7. [手写 new](https://github.com/MaMaFish/Note/issues/30)
 8. [数组去重](https://github.com/MaMaFish/Note/issues/31)
-
+9. [数组排序](https://github.com/MaMaFish/Note/issues/32)
 
 ## 网络安全
 1. [XSS 与 CSRF 攻击](https://github.com/MaMaFish/Note/issues/28)
