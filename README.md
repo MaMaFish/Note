@@ -50,6 +50,7 @@
 5. [(a==1 && b==2 && c==3)为 true](https://github.com/MaMaFish/Note/issues/25)
 6. [写出代码执行结果](https://github.com/MaMaFish/Note/issues/26)
 7. [手写 new](https://github.com/MaMaFish/Note/issues/30)
+8. [数组去重](https://github.com/MaMaFish/Note/issues/31)
 
 
 ## 网络安全
