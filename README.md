@@ -51,6 +51,8 @@
 7. [手写 new](https://github.com/MaMaFish/Note/issues/30)
 8. [数组去重](https://github.com/MaMaFish/Note/issues/31)
 9. [数组排序](https://github.com/MaMaFish/Note/issues/32)
+10. [手写 call, apply, bind](https://github.com/MaMaFish/Note/issues/35)
+11. [手写深拷贝](https://github.com/MaMaFish/Note/issues/36)
 
 ## 网络安全
 1. [XSS 与 CSRF 攻击](https://github.com/MaMaFish/Note/issues/28)
