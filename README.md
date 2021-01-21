@@ -19,7 +19,7 @@
 15. [ES6 中的 let 和 const](https://github.com/MaMaFish/Note/issues/17)
 16. [this 的指向](https://github.com/MaMaFish/Note/issues/18)
 17. [ES5 寄生组合继承](https://github.com/MaMaFish/Note/issues/24)
-
+18. [发布订阅者模式](https://github.com/MaMaFish/Note/issues/33)
 
 ## CSS
 1. [CSS 实现三角形](https://github.com/MaMaFish/Interview-Question/issues/1)
@@ -60,4 +60,3 @@
 ## To learn
 1. http2
 2. 垃圾回收机制
-3. 发布订阅模式
