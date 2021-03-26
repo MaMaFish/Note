@@ -53,6 +53,7 @@
 9. [数组排序](https://github.com/MaMaFish/Note/issues/32)
 10. [手写 call, apply, bind](https://github.com/MaMaFish/Note/issues/35)
 11. [手写深拷贝](https://github.com/MaMaFish/Note/issues/36)
+12. [实现 add(1)(2)(3) == 6](https://github.com/MaMaFish/Note/issues/42)
 
 ## 网络安全
 1. [XSS 与 CSRF 攻击](https://github.com/MaMaFish/Note/issues/28)
